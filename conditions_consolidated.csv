@@ -28,18 +28,18 @@ Haze / Windy,Hazy
 Heavy Blowing Snow,Heavy Snow
 Heavy Drizzle,Rain
 Heavy Freezing Drizzle,Freezing Rain
-Heavy Freezing Rain,Heavy Freezing Rain
-Heavy Freezing Rain / Windy,Heavy Freezing Rain
-Heavy Ice Pellets,Heavy Sleet
+Heavy Freezing Rain,Freezing Rain
+Heavy Freezing Rain / Windy,Freezing Rain
+Heavy Ice Pellets,Sleet
 Heavy Rain,Heavy Rain
 Heavy Rain / Windy,Heavy Rain
 Heavy Rain Shower,Heavy Rain
 Heavy Rain Shower / Windy,Heavy Rain
 Heavy Rain Showers,Heavy Rain
-Heavy Sleet,Heavy Sleet
-Heavy Sleet / Windy,Heavy Sleet
-Heavy Sleet and Thunder,Heavy Sleet
-Heavy Smoke,Heavy Smoke
+Heavy Sleet,Sleet
+Heavy Sleet / Windy,Sleet
+Heavy Sleet and Thunder,Sleet
+Heavy Smoke,Smoke
 Heavy Snow,Heavy Snow
 Heavy Snow / Windy,Heavy Snow
 Heavy Snow with Thunder,Heavy Snow
@@ -57,7 +57,7 @@ Light Freezing Drizzle,Light Sleet
 Light Freezing Fog,Light Freezing Fog
 Light Freezing Rain,Light Sleet
 Light Freezing Rain / Windy,Light Sleet
-Light Hail,Light Hail
+Light Hail,Hail
 Light Haze,Hazy
 Light Ice Pellets,Light Sleet
 Light Rain,Light Rain
