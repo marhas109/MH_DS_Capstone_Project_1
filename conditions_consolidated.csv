@@ -1,145 +1,144 @@
-Original value,New value,Dict 
-Blowing Dust,Blowing Ash / Dust / Sand,Blowing Dust: Blowing Ash / Dust / Sand
-Blowing Dust / Windy,Blowing Ash / Dust / Sand,Blowing Dust / Windy: Blowing Ash / Dust / Sand
-Blowing Sand,Blowing Ash / Dust / Sand,Blowing Sand: Blowing Ash / Dust / Sand
-Blowing Snow,Blowing Snow,Blowing Snow: Blowing Snow
-Blowing Snow / Windy,Blowing Snow,Blowing Snow / Windy: Blowing Snow
-Blowing Snow Nearby,Blowing Snow,Blowing Snow Nearby: Blowing Snow
-Clear,Fair,Clear: Fair
-Cloudy,Cloudy,Cloudy: Cloudy
-Cloudy / Windy,Cloudy,Cloudy / Windy: Cloudy
-Drifting Snow,Blowing Snow,Drifting Snow: Blowing Snow
-Drifting Snow / Windy,Blowing Snow,Drifting Snow / Windy: Blowing Snow
-Drizzle,Light Rain,Drizzle: Light Rain
-Drizzle / Windy,Light Rain,Drizzle / Windy: Light Rain
-Drizzle and Fog,Light Rain,Drizzle and Fog: Light Rain
-Dust Whirls,Blowing Ash / Dust / Sand,Dust Whirls: Blowing Ash / Dust / Sand
-Duststorm,Blowing Ash / Dust / Sand,Duststorm: Blowing Ash / Dust / Sand
-Fair,Fair,Fair: Fair
-Fair / Windy,Fair,Fair / Windy: Fair
-Fog,Fog,Fog: Fog
-Fog / Windy,Fog,Fog / Windy: Fog
-Freezing Drizzle,Freezing Rain,Freezing Drizzle: Freezing Rain
-Freezing Rain,Freezing Rain,Freezing Rain: Freezing Rain
-Freezing Rain / Windy,Freezing Rain,Freezing Rain / Windy: Freezing Rain
-Funnel Cloud,Tornado,Funnel Cloud: Tornado
-Hail,Hail,Hail: Hail
-Haze,Hazy,Haze: Hazy
-Haze / Windy,Hazy,Haze / Windy: Hazy
-Heavy Blowing Snow,Heavy Snow,Heavy Blowing Snow: Heavy Snow
-Heavy Drizzle,Rain,Heavy Drizzle: Rain
-Heavy Freezing Drizzle,Freezing Rain,Heavy Freezing Drizzle: Freezing Rain
-Heavy Freezing Rain,Heavy Freezing Rain,Heavy Freezing Rain: Heavy Freezing Rain
-Heavy Freezing Rain / Windy,Heavy Freezing Rain,Heavy Freezing Rain / Windy: Heavy Freezing Rain
-Heavy Ice Pellets,Heavy Sleet,Heavy Ice Pellets: Heavy Sleet
-Heavy Rain,Heavy Rain,Heavy Rain: Heavy Rain
-Heavy Rain / Windy,Heavy Rain,Heavy Rain / Windy: Heavy Rain
-Heavy Rain Shower,Heavy Rain,Heavy Rain Shower: Heavy Rain
-Heavy Rain Shower / Windy,Heavy Rain,Heavy Rain Shower / Windy: Heavy Rain
-Heavy Rain Showers,Heavy Rain,Heavy Rain Showers: Heavy Rain
-Heavy Sleet,Heavy Sleet,Heavy Sleet: Heavy Sleet
-Heavy Sleet / Windy,Heavy Sleet,Heavy Sleet / Windy: Heavy Sleet
-Heavy Sleet and Thunder,Heavy Sleet,Heavy Sleet and Thunder: Heavy Sleet
-Heavy Smoke,Heavy Smoke,Heavy Smoke: Heavy Smoke
-Heavy Snow,Heavy Snow,Heavy Snow: Heavy Snow
-Heavy Snow / Windy,Heavy Snow,Heavy Snow / Windy: Heavy Snow
-Heavy Snow with Thunder,Heavy Snow,Heavy Snow with Thunder: Heavy Snow
-Heavy Thunderstorms and Rain,Heavy Thunderstorm,Heavy Thunderstorms and Rain: Heavy Thunderstorm
-Heavy Thunderstorms and Snow,Heavy Snow,Heavy Thunderstorms and Snow: Heavy Snow
-Heavy Thunderstorms with Small Hail,Heavy Thunderstorm,Heavy Thunderstorms with Small Hail: Heavy Thunderstorm
-Heavy T-Storm,Heavy Thunderstorm,Heavy T-Storm: Heavy Thunderstorm
-Heavy T-Storm / Windy,Heavy Thunderstorm,Heavy T-Storm / Windy: Heavy Thunderstorm
-Ice Pellets,Sleet,Ice Pellets: Sleet
-Light Blowing Snow,Light Snow,Light Blowing Snow: Light Snow
-Light Drizzle,Light Rain,Light Drizzle: Light Rain
-Light Drizzle / Windy,Light Rain,Light Drizzle / Windy: Light Rain
-Light Fog,Light Fog,Light Fog: Light Fog
-Light Freezing Drizzle,Light Sleet,Light Freezing Drizzle: Light Sleet
-Light Freezing Fog,Light Freezing Fog,Light Freezing Fog: Light Freezing Fog
-Light Freezing Rain,Light Sleet,Light Freezing Rain: Light Sleet
-Light Freezing Rain / Windy,Light Sleet,Light Freezing Rain / Windy: Light Sleet
-Light Hail,Light Hail,Light Hail: Light Hail
-Light Haze,Hazy,Light Haze: Hazy
-Light Ice Pellets,Light Sleet,Light Ice Pellets: Light Sleet
-Light Rain,Light Rain,Light Rain: Light Rain
-Light Rain / Windy,Light Rain,Light Rain / Windy: Light Rain
-Light Rain Shower,Light Rain,Light Rain Shower: Light Rain
-Light Rain Shower / Windy,Light Rain,Light Rain Shower / Windy: Light Rain
-Light Rain Showers,Light Rain,Light Rain Showers: Light Rain
-Light Rain with Thunder,Light Rain,Light Rain with Thunder: Light Rain
-Light Sleet,Light Sleet,Light Sleet: Light Sleet
-Light Sleet / Windy,Light Sleet,Light Sleet / Windy: Light Sleet
-Light Snow,Light Snow,Light Snow: Light Snow
-Light Snow / Windy,Light Snow,Light Snow / Windy: Light Snow
-Light Snow and Sleet,Wintry  Mix,Light Snow and Sleet: Wintry  Mix
-Light Snow and Sleet / Windy,Wintry  Mix,Light Snow and Sleet / Windy: Wintry  Mix
-Light Snow Grains,Light Snow,Light Snow Grains: Light Snow
-Light Snow Shower,Light Snow,Light Snow Shower: Light Snow
-Light Snow Shower / Windy,Light Snow,Light Snow Shower / Windy: Light Snow
-Light Snow Showers,Light Snow,Light Snow Showers: Light Snow
-Light Snow with Thunder,Light Snow,Light Snow with Thunder: Light Snow
-Light Thunderstorm,Light Thunderstorm,Light Thunderstorm: Light Thunderstorm
-Light Thunderstorms and Rain,Light Thunderstorm,Light Thunderstorms and Rain: Light Thunderstorm
-Light Thunderstorms and Snow,Light Snow,Light Thunderstorms and Snow: Light Snow
-Low Drifting Snow,Light Snow,Low Drifting Snow: Light Snow
-Mist,Mist,Mist: Mist
-Mist / Windy,Mist,Mist / Windy: Mist
-Mostly Cloudy,Cloudy,Mostly Cloudy: Cloudy
-Mostly Cloudy / Windy,Cloudy,Mostly Cloudy / Windy: Cloudy
-N/A Precipitation,Fair,N/A Precipitation: Fair
-Overcast,Cloudy,Overcast: Cloudy
-Partial Fog,Light Fog,Partial Fog: Light Fog
-Partial Fog / Windy,Light Fog,Partial Fog / Windy: Light Fog
-Partly Cloudy,Partly Cloudy,Partly Cloudy: Partly Cloudy
-Partly Cloudy / Windy,Partly Cloudy,Partly Cloudy / Windy: Partly Cloudy
-Patches of Fog,Light Fog,Patches of Fog: Light Fog
-Patches of Fog / Windy,Light Fog,Patches of Fog / Windy: Light Fog
-Rain,Rain,Rain: Rain
-Rain / Windy,Rain,Rain / Windy: Rain
-Rain and Sleet,Sleet,Rain and Sleet: Sleet
-Rain Shower,Rain,Rain Shower: Rain
-Rain Shower / Windy,Rain,Rain Shower / Windy: Rain
-Rain Showers,Rain,Rain Showers: Rain
-Sand,Blowing Ash / Dust / Sand,Sand: Blowing Ash / Dust / Sand
-Sand / Dust Whirls Nearby,Blowing Ash / Dust / Sand,Sand / Dust Whirls Nearby: Blowing Ash / Dust / Sand
-Sand / Dust Whirlwinds,Blowing Ash / Dust / Sand,Sand / Dust Whirlwinds: Blowing Ash / Dust / Sand
-Sand / Dust Whirlwinds / Windy,Blowing Ash / Dust / Sand,Sand / Dust Whirlwinds / Windy: Blowing Ash / Dust / Sand
-Sand / Windy,Blowing Ash / Dust / Sand,Sand / Windy: Blowing Ash / Dust / Sand
-Scattered Clouds,Partly Cloudy,Scattered Clouds: Partly Cloudy
-Shallow Fog,Light Fog,Shallow Fog: Light Fog
-Shallow Fog / Windy,Light Fog,Shallow Fog / Windy: Light Fog
-Showers in the Vicinity,Partly Cloudy,Showers in the Vicinity: Partly Cloudy
-Sleet,Sleet,Sleet: Sleet
-Sleet / Windy,Sleet,Sleet / Windy: Sleet
-Sleet and Thunder,Sleet,Sleet and Thunder: Sleet
-Small Hail,Hail,Small Hail: Hail
-Smoke,Smoke,Smoke: Smoke
-Smoke / Windy,Smoke,Smoke / Windy: Smoke
-Snow,Snow,Snow: Snow
-Snow / Windy,Snow,Snow / Windy: Snow
-Snow and Sleet,Wintry  Mix,Snow and Sleet: Wintry  Mix
-Snow and Sleet / Windy,Wintry  Mix,Snow and Sleet / Windy: Wintry  Mix
-Snow and Thunder,Snow,Snow and Thunder: Snow
-Snow and Thunder / Windy,Snow,Snow and Thunder / Windy: Snow
-Snow Grains,Light Snow,Snow Grains: Light Snow
-Snow Showers,Snow,Snow Showers: Snow
-Squalls,Thunderstorm,Squalls: Thunderstorm
-Squalls / Windy,Thunderstorm,Squalls / Windy: Thunderstorm
-Thunder,Thunderstorm,Thunder: Thunderstorm
-Thunder / Windy,Thunderstorm,Thunder / Windy: Thunderstorm
-Thunder / Wintry Mix,Wintry  Mix,Thunder / Wintry Mix: Wintry  Mix
-Thunder / Wintry Mix / Windy,Wintry  Mix,Thunder / Wintry Mix / Windy: Wintry  Mix
-Thunder and Hail,Hail,Thunder and Hail: Hail
-Thunder and Hail / Windy,Hail,Thunder and Hail / Windy: Hail
-Thunder in the Vicinity,Light Thunderstorm,Thunder in the Vicinity: Light Thunderstorm
-Thunderstorm,Thunderstorm,Thunderstorm: Thunderstorm
-Thunderstorms and Rain,Thunderstorm,Thunderstorms and Rain: Thunderstorm
-Thunderstorms and Snow,Snow,Thunderstorms and Snow: Snow
-Tornado,Tornado,Tornado: Tornado
-T-Storm,Tornado,T-Storm: Tornado
-T-Storm / Windy,Tornado,T-Storm / Windy: Tornado
-Volcanic Ash,Blowing Ash / Dust / Sand,Volcanic Ash: Blowing Ash / Dust / Sand
-Widespread Dust,Blowing Ash / Dust / Sand,Widespread Dust: Blowing Ash / Dust / Sand
-Widespread Dust / Windy,Blowing Ash / Dust / Sand,Widespread Dust / Windy: Blowing Ash / Dust / Sand
-Wintry Mix,Wintry  Mix,Wintry Mix: Wintry  Mix
-Wintry Mix / Windy,Wintry  Mix,Wintry Mix / Windy: Wintry  Mix
+Blowing Dust,Blowing Ash / Dust / Sand
+Blowing Dust / Windy,Blowing Ash / Dust / Sand
+Blowing Sand,Blowing Ash / Dust / Sand
+Blowing Snow,Blowing Snow
+Blowing Snow / Windy,Blowing Snow
+Blowing Snow Nearby,Blowing Snow
+Clear,Fair
+Cloudy,Cloudy
+Cloudy / Windy,Cloudy
+Drifting Snow,Blowing Snow
+Drifting Snow / Windy,Blowing Snow
+Drizzle,Light Rain
+Drizzle / Windy,Light Rain
+Drizzle and Fog,Light Rain
+Dust Whirls,Blowing Ash / Dust / Sand
+Duststorm,Blowing Ash / Dust / Sand
+Fair,Fair
+Fair / Windy,Fair
+Fog,Fog
+Fog / Windy,Fog
+Freezing Drizzle,Freezing Rain
+Freezing Rain,Freezing Rain
+Freezing Rain / Windy,Freezing Rain
+Funnel Cloud,Tornado
+Hail,Hail
+Haze,Hazy
+Haze / Windy,Hazy
+Heavy Blowing Snow,Heavy Snow
+Heavy Drizzle,Rain
+Heavy Freezing Drizzle,Freezing Rain
+Heavy Freezing Rain,Heavy Freezing Rain
+Heavy Freezing Rain / Windy,Heavy Freezing Rain
+Heavy Ice Pellets,Heavy Sleet
+Heavy Rain,Heavy Rain
+Heavy Rain / Windy,Heavy Rain
+Heavy Rain Shower,Heavy Rain
+Heavy Rain Shower / Windy,Heavy Rain
+Heavy Rain Showers,Heavy Rain
+Heavy Sleet,Heavy Sleet
+Heavy Sleet / Windy,Heavy Sleet
+Heavy Sleet and Thunder,Heavy Sleet
+Heavy Smoke,Heavy Smoke
+Heavy Snow,Heavy Snow
+Heavy Snow / Windy,Heavy Snow
+Heavy Snow with Thunder,Heavy Snow
+Heavy Thunderstorms and Rain,Heavy Thunderstorm
+Heavy Thunderstorms and Snow,Heavy Snow
+Heavy Thunderstorms with Small Hail,Heavy Thunderstorm
+Heavy T-Storm,Heavy Thunderstorm
+Heavy T-Storm / Windy,Heavy Thunderstorm
+Ice Pellets,Sleet
+Light Blowing Snow,Light Snow
+Light Drizzle,Light Rain
+Light Drizzle / Windy,Light Rain
+Light Fog,Light Fog
+Light Freezing Drizzle,Light Sleet
+Light Freezing Fog,Light Freezing Fog
+Light Freezing Rain,Light Sleet
+Light Freezing Rain / Windy,Light Sleet
+Light Hail,Light Hail
+Light Haze,Hazy
+Light Ice Pellets,Light Sleet
+Light Rain,Light Rain
+Light Rain / Windy,Light Rain
+Light Rain Shower,Light Rain
+Light Rain Shower / Windy,Light Rain
+Light Rain Showers,Light Rain
+Light Rain with Thunder,Light Rain
+Light Sleet,Light Sleet
+Light Sleet / Windy,Light Sleet
+Light Snow,Light Snow
+Light Snow / Windy,Light Snow
+Light Snow and Sleet,Wintry  Mix
+Light Snow and Sleet / Windy,Wintry  Mix
+Light Snow Grains,Light Snow
+Light Snow Shower,Light Snow
+Light Snow Shower / Windy,Light Snow
+Light Snow Showers,Light Snow
+Light Snow with Thunder,Light Snow
+Light Thunderstorm,Light Thunderstorm
+Light Thunderstorms and Rain,Light Thunderstorm
+Light Thunderstorms and Snow,Light Snow
+Low Drifting Snow,Light Snow
+Mist,Mist
+Mist / Windy,Mist
+Mostly Cloudy,Cloudy
+Mostly Cloudy / Windy,Cloudy
+N/A Precipitation,Fair
+Overcast,Cloudy
+Partial Fog,Light Fog
+Partial Fog / Windy,Light Fog
+Partly Cloudy,Partly Cloudy
+Partly Cloudy / Windy,Partly Cloudy
+Patches of Fog,Light Fog
+Patches of Fog / Windy,Light Fog
+Rain,Rain
+Rain / Windy,Rain
+Rain and Sleet,Sleet
+Rain Shower,Rain
+Rain Shower / Windy,Rain
+Rain Showers,Rain
+Sand,Blowing Ash / Dust / Sand
+Sand / Dust Whirls Nearby,Blowing Ash / Dust / Sand
+Sand / Dust Whirlwinds,Blowing Ash / Dust / Sand
+Sand / Dust Whirlwinds / Windy,Blowing Ash / Dust / Sand
+Sand / Windy,Blowing Ash / Dust / Sand
+Scattered Clouds,Partly Cloudy
+Shallow Fog,Light Fog
+Shallow Fog / Windy,Light Fog
+Showers in the Vicinity,Partly Cloudy
+Sleet,Sleet
+Sleet / Windy,Sleet
+Sleet and Thunder,Sleet
+Small Hail,Hail
+Smoke,Smoke
+Smoke / Windy,Smoke
+Snow,Snow
+Snow / Windy,Snow
+Snow and Sleet,Wintry  Mix
+Snow and Sleet / Windy,Wintry  Mix
+Snow and Thunder,Snow
+Snow and Thunder / Windy,Snow
+Snow Grains,Light Snow
+Snow Showers,Snow
+Squalls,Thunderstorm
+Squalls / Windy,Thunderstorm
+Thunder,Thunderstorm
+Thunder / Windy,Thunderstorm
+Thunder / Wintry Mix,Wintry  Mix
+Thunder / Wintry Mix / Windy,Wintry  Mix
+Thunder and Hail,Hail
+Thunder and Hail / Windy,Hail
+Thunder in the Vicinity,Light Thunderstorm
+Thunderstorm,Thunderstorm
+Thunderstorms and Rain,Thunderstorm
+Thunderstorms and Snow,Snow
+Tornado,Tornado
+T-Storm,Tornado
+T-Storm / Windy,Tornado
+Volcanic Ash,Blowing Ash / Dust / Sand
+Widespread Dust,Blowing Ash / Dust / Sand
+Widespread Dust / Windy,Blowing Ash / Dust / Sand
+Wintry Mix,Wintry  Mix
+Wintry Mix / Windy,Wintry  Mix
